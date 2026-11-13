@@ -33,3 +33,5 @@ target/
 ### OS / Temp ###
 .DS_Store
 Thumbs.db
+
+.env
